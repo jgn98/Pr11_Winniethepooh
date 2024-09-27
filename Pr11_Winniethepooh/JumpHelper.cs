@@ -1,10 +1,9 @@
 namespace Pr11_Winniethepooh;
 
-public class JumpHelper
+public static class JumpHelper
 {
     public static string CalculateMeetingPoint(int TigerX, int TigerSpd, int PoohX, int PoohSpd)
     {
-        int i = 0;
         string meetingPoint = null;
         do
         {
