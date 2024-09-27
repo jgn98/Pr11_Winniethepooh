@@ -1,0 +1,14 @@
+/Users/jonasg.nielsen/RiderProjects/Pr11_Winniethepooh/Pr11_Winniethepooh/bin/Debug/net8.0/Pr11_Winniethepooh
+/Users/jonasg.nielsen/RiderProjects/Pr11_Winniethepooh/Pr11_Winniethepooh/bin/Debug/net8.0/Pr11_Winniethepooh.deps.json
+/Users/jonasg.nielsen/RiderProjects/Pr11_Winniethepooh/Pr11_Winniethepooh/bin/Debug/net8.0/Pr11_Winniethepooh.runtimeconfig.json
+/Users/jonasg.nielsen/RiderProjects/Pr11_Winniethepooh/Pr11_Winniethepooh/bin/Debug/net8.0/Pr11_Winniethepooh.dll
+/Users/jonasg.nielsen/RiderProjects/Pr11_Winniethepooh/Pr11_Winniethepooh/bin/Debug/net8.0/Pr11_Winniethepooh.pdb
+/Users/jonasg.nielsen/RiderProjects/Pr11_Winniethepooh/Pr11_Winniethepooh/obj/Debug/net8.0/Pr11_Winniethepooh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonasg.nielsen/RiderProjects/Pr11_Winniethepooh/Pr11_Winniethepooh/obj/Debug/net8.0/Pr11_Winniethepooh.AssemblyInfoInputs.cache
+/Users/jonasg.nielsen/RiderProjects/Pr11_Winniethepooh/Pr11_Winniethepooh/obj/Debug/net8.0/Pr11_Winniethepooh.AssemblyInfo.cs
+/Users/jonasg.nielsen/RiderProjects/Pr11_Winniethepooh/Pr11_Winniethepooh/obj/Debug/net8.0/Pr11_Winniethepooh.csproj.CoreCompileInputs.cache
+/Users/jonasg.nielsen/RiderProjects/Pr11_Winniethepooh/Pr11_Winniethepooh/obj/Debug/net8.0/Pr11_Winniethepooh.dll
+/Users/jonasg.nielsen/RiderProjects/Pr11_Winniethepooh/Pr11_Winniethepooh/obj/Debug/net8.0/refint/Pr11_Winniethepooh.dll
+/Users/jonasg.nielsen/RiderProjects/Pr11_Winniethepooh/Pr11_Winniethepooh/obj/Debug/net8.0/Pr11_Winniethepooh.pdb
+/Users/jonasg.nielsen/RiderProjects/Pr11_Winniethepooh/Pr11_Winniethepooh/obj/Debug/net8.0/Pr11_Winniethepooh.genruntimeconfig.cache
+/Users/jonasg.nielsen/RiderProjects/Pr11_Winniethepooh/Pr11_Winniethepooh/obj/Debug/net8.0/ref/Pr11_Winniethepooh.dll
